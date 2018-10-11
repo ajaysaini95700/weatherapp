@@ -1,5 +1,6 @@
 # weatherapp
 
+it is a app for showing 5 day weather forecast
 ## Usage
 
 
@@ -20,21 +21,20 @@ $ ionic serve
 
 ### To Add Platforms
 ```sh
-$ cordova platform add android
-$ cordova platform add ios
+$ ionic cordova platform add android
+$ ionic cordova platform add ios
 ```
 
 ### Run Platforms
 To run in avd
 
 ```sh
-$ ionic run android
-$ ionic run ios
+$ ionic cordova run android
 ```
 
 ### Build Android APK File
 To build APK file to output folder
 
 ```sh
-$ ionic build android
+$ ionic cordova build android
 ```
