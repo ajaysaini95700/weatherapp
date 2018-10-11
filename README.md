@@ -2,8 +2,7 @@
 
 it is a app for showing 5 day weather forecast
 ## Usage
-
-
+First clone the repository run this command in CMD or trminal: git clone https://github.com/ajaysaini95700/weatherapp.git
 ### Installation
 
 Install the dependencies
